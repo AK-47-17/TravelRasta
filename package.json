@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
 "devDependencies": {
-    "react-scripts": "5.0.1" // The version number might differ
+    "react-scripts": "5.0.1" 
 },
 "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build", // This is the command Vercel is failing on
+    "build": "react-scripts build", 
     "test": "react-scripts test",
     "eject": "react-scripts eject"
 }
